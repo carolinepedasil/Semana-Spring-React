@@ -17,7 +17,7 @@ public class Score {
 	public Score() {
 	}
 	
-	//Este m[etodo vai servir para informar um filme e associar o filme com o Score
+	//Este método vai servir para informar um filme e associar o filme com o Score
 	public void setMovie(Movie movie) {
 		id.setMovie(movie);
 	}
